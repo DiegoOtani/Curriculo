@@ -1,0 +1,60 @@
+*{
+    background-color:greenyellow;  
+}
+
+header{
+    text-align: center;
+}
+
+#nome{
+    font-style:oblique;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aquamarine;
+    text-decoration: underline;
+}
+
+#cidade{
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.titulo{
+    margin: 0;
+    padding: 0;
+    font-style:normal;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    background-color: aquamarine;
+    text-decoration: underline overline crimson ;
+    
+}
+
+p{
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+a{
+    font-style: italic;
+}
+
+a:hover{
+    color: white;
+}
+
+img{
+    width: 250px;
+    height: 200px;
+}
+
+li{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    font-weight: bold;
+}
